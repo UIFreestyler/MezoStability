@@ -29,4 +29,4 @@ python3 mezo_audio.py && python3 mezo.py
 
 ### All the files are open to change! Some functions are still in development (Warning)
 
-(My Github)[https://github.com/UIFreestyler]
+[My Github](https://github.com/UIFreestyler)
